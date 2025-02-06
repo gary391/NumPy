@@ -4,3 +4,5 @@ Jupyter Notebook &amp; Data Associated with my Tutorial video on the Python NumP
 
 Video Link:
 https://youtu.be/GB9ByFAIAH4
+
+
